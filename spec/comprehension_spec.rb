@@ -226,7 +226,7 @@ describe "GIT" do
     expect(encode(answer)).to eq(encoded_answer)
   end
 
-# end
+# endgmail.committrav0455dradrawing
 
 # describe "STATUS" do
   it "30. If index.html is being tracked and you modify it, but don't stage this change,
